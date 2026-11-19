@@ -1,0 +1,25 @@
+{
+  "name": "Futsal CEP — Gestão e desempenho esportivo",
+  "short_name": "Futsal CEP",
+  "lang": "pt-BR",
+  "description": "Gestão e análise de desempenho das equipes de futsal do Colégio Estadual do Paraná.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0a111c",
+  "theme_color": "#102341",
+  "icons": [
+    {
+      "src": "assets/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
